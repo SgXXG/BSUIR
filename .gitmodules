@@ -7,3 +7,6 @@
 [submodule "Computer_Hardware"]
 	path = Computer_Hardware
 	url = https://github.com/SgXXG/Computer_Hardware
+[submodule "CSaN"]
+	path = CSaN
+	url = https://github.com/SgXXG/CSaN
