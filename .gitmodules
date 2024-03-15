@@ -64,3 +64,6 @@
 [submodule "TWOA"]
 	path = TWOA
 	url = https://github.com/SgXXG/TWOA
+[submodule "MPP-Course_Project"]
+	path = MPP-Course_Project
+	url = https://github.com/SgXXG/MPP_Course_Project
