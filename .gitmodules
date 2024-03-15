@@ -31,3 +31,6 @@
 [submodule "MPP"]
 	path = MPP
 	url = https://github.com/SgXXG/MPP
+[submodule "WT-P2"]
+	path = WT-P2
+	url = https://github.com/SgXXG/WT-p2
