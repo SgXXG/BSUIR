@@ -22,3 +22,6 @@
 [submodule "WT"]
 	path = WT
 	url = https://github.com/SgXXG/WT
+[submodule "OSaSP"]
+	path = OSaSP
+	url = https://github.com/SgXXG/OSaSP
