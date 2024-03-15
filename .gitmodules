@@ -34,3 +34,6 @@
 [submodule "WT-P2"]
 	path = WT-P2
 	url = https://github.com/SgXXG/WT-p2
+[submodule "SR"]
+	path = SR
+	url = https://github.com/SgXXG/SR
