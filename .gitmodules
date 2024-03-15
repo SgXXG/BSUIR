@@ -82,3 +82,6 @@
 [submodule "DDS"]
 	path = DDS
 	url = https://github.com/SgXXG/Digital_Design_Software
+[submodule "DB-Course_Project"]
+	path = DB-Course_Project
+	url = https://github.com/SgXXG/DB_Course_Project
