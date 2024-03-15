@@ -73,3 +73,6 @@
 [submodule "ESS"]
 	path = ESS
 	url = https://github.com/SgXXG/Embedded_Systems_Software
+[submodule "SAaMM"]
+	path = SAaMM
+	url = https://github.com/SgXXG/System_Analysis_and_Machine_Modeling
