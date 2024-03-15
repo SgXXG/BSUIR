@@ -94,3 +94,6 @@
 [submodule "DB-P2_Course_Project"]
 	path = DB-P2_Course_Project
 	url = https://github.com/SgXXG/Databases-p.2_Course_Project
+[submodule "BotES"]
+	path = BotES
+	url = https://github.com/SgXXG/BotES
