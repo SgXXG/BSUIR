@@ -10,3 +10,6 @@
 [submodule "CSaN"]
 	path = CSaN
 	url = https://github.com/SgXXG/CSaN
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/SgXXG/OOP
