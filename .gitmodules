@@ -85,3 +85,6 @@
 [submodule "DB-Course_Project"]
 	path = DB-Course_Project
 	url = https://github.com/SgXXG/DB_Course_Project
+[submodule "ACD"]
+	path = ACD
+	url = https://github.com/SgXXG/ACD
