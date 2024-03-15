@@ -28,3 +28,6 @@
 [submodule "ToDC"]
 	path = ToDC
 	url = https://github.com/SgXXG/ToDS
+[submodule "MPP"]
+	path = MPP
+	url = https://github.com/SgXXG/MPP
