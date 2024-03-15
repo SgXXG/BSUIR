@@ -43,3 +43,6 @@
 [submodule "OSaSP-Course-Project"]
 	path = OSaSP-Course-Project
 	url = https://github.com/SgXXG/OSaSP_CourseProject
+[submodule "OM"]
+	path = OM
+	url = https://github.com/SgXXG/OM
