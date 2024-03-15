@@ -79,3 +79,6 @@
 [submodule "DB-P2"]
 	path = DB-P2
 	url = https://github.com/SgXXG/Databases-p.2
+[submodule "DDS"]
+	path = DDS
+	url = https://github.com/SgXXG/Digital_Design_Software
