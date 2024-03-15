@@ -19,3 +19,6 @@
 [submodule "IT"]
 	path = IT
 	url = https://github.com/SgXXG/IT
+[submodule "WT"]
+	path = WT
+	url = https://github.com/SgXXG/WT
