@@ -76,3 +76,6 @@
 [submodule "SAaMM"]
 	path = SAaMM
 	url = https://github.com/SgXXG/System_Analysis_and_Machine_Modeling
+[submodule "DB-P2"]
+	path = DB-P2
+	url = https://github.com/SgXXG/Databases-p.2
