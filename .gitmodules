@@ -58,3 +58,6 @@
 [submodule "MPP-P2"]
 	path = MPP-P2
 	url = https://github.com/SgXXG/MPP_p2
+[submodule "NTaOSA"]
+	path = NTaOSA
+	url = https://github.com/SgXXG/NTaOSA
