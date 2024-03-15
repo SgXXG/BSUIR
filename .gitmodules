@@ -13,3 +13,6 @@
 [submodule "OOP"]
 	path = OOP
 	url = https://github.com/SgXXG/OOP
+[submodule "DUI"]
+	path = DUI
+	url = https://github.com/SgXXG/DUI
