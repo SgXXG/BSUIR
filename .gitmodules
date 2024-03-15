@@ -4,3 +4,6 @@
 [submodule "PL"]
 	path = PL
 	url = https://github.com/SgXXG/PL
+[submodule "Computer_Hardware"]
+	path = Computer_Hardware
+	url = https://github.com/SgXXG/Computer_Hardware
