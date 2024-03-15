@@ -88,3 +88,6 @@
 [submodule "ACD"]
 	path = ACD
 	url = https://github.com/SgXXG/ACD
+[submodule "DSP"]
+	path = DSP
+	url = https://github.com/SgXXG/Digital_Signal_Processing
