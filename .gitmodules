@@ -52,3 +52,6 @@
 [submodule "SDfMP"]
 	path = SDfMP
 	url = https://github.com/SgXXG/SDfMP
+[submodule "DMMaA"]
+	path = DMMaA
+	url = https://github.com/SgXXG/DMMaA
