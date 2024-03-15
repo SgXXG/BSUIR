@@ -67,3 +67,6 @@
 [submodule "MPP-Course_Project"]
 	path = MPP-Course_Project
 	url = https://github.com/SgXXG/MPP_Course_Project
+[submodule "DB"]
+	path = DB
+	url = https://github.com/SgXXG/DB
