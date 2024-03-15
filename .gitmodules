@@ -16,3 +16,6 @@
 [submodule "DUI"]
 	path = DUI
 	url = https://github.com/SgXXG/DUI
+[submodule "IT"]
+	path = IT
+	url = https://github.com/SgXXG/IT
