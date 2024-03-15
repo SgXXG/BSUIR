@@ -46,3 +46,6 @@
 [submodule "OM"]
 	path = OM
 	url = https://github.com/SgXXG/OM
+[submodule "OSaSP-P2"]
+	path = OSaSP-P2
+	url = https://github.com/SgXXG/OSaSP-p2
