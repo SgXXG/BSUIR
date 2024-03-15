@@ -91,3 +91,6 @@
 [submodule "DSP"]
 	path = DSP
 	url = https://github.com/SgXXG/Digital_Signal_Processing
+[submodule "DB-P2_Course_Project"]
+	path = DB-P2_Course_Project
+	url = https://github.com/SgXXG/Databases-p.2_Course_Project
