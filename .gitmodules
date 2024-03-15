@@ -40,3 +40,6 @@
 [submodule "OOP-P2"]
 	path = OOP-P2
 	url = https://github.com/SgXXG/OOP-p2
+[submodule "OSaSP-Course-Project"]
+	path = OSaSP-Course-Project
+	url = https://github.com/SgXXG/OSaSP_CourseProject
