@@ -49,3 +49,6 @@
 [submodule "OSaSP-P2"]
 	path = OSaSP-P2
 	url = https://github.com/SgXXG/OSaSP-p2
+[submodule "SDfMP"]
+	path = SDfMP
+	url = https://github.com/SgXXG/SDfMP
