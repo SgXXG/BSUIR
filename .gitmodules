@@ -61,3 +61,6 @@
 [submodule "NTaOSA"]
 	path = NTaOSA
 	url = https://github.com/SgXXG/NTaOSA
+[submodule "TWOA"]
+	path = TWOA
+	url = https://github.com/SgXXG/TWOA
